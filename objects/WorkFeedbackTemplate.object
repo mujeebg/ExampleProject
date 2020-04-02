@@ -115,5 +115,16 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>Name</fullName>
+    </fields>
+    <fields>
+        <fullName>OwnerId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>QuestionSetId</fullName>
+        <type>Lookup</type>
+    </fields>
     <sharingModel>Private</sharingModel>
 </CustomObject>
