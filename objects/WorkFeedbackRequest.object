@@ -283,6 +283,33 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
+    <searchLayouts>
+        <customTabListAdditionalFields>Subject</customTabListAdditionalFields>
+        <customTabListAdditionalFields>FeedbackType</customTabListAdditionalFields>
+        <customTabListAdditionalFields>DueDate</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Recipient</customTabListAdditionalFields>
+        <customTabListAdditionalFields>CREATED_DATE</customTabListAdditionalFields>
+        <customTabListAdditionalFields>FeedbackRequestState</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Subject</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>FeedbackType</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>DueDate</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Recipient</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>CREATED_DATE</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>FeedbackRequestState</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Subject</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>FeedbackType</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>DueDate</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Recipient</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>CREATED_DATE</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>FeedbackRequestState</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>Subject</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>FeedbackType</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>DueDate</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Recipient</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CREATED_DATE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>FeedbackRequestState</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
     <fields>
         <fullName>AdHocFeedback</fullName>
     </fields>
@@ -381,31 +408,4 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
-    <searchLayouts>
-        <customTabListAdditionalFields>Subject</customTabListAdditionalFields>
-        <customTabListAdditionalFields>FeedbackType</customTabListAdditionalFields>
-        <customTabListAdditionalFields>DueDate</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Recipient</customTabListAdditionalFields>
-        <customTabListAdditionalFields>CREATED_DATE</customTabListAdditionalFields>
-        <customTabListAdditionalFields>FeedbackRequestState</customTabListAdditionalFields>
-        <lookupDialogsAdditionalFields>Subject</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>FeedbackType</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>DueDate</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>Recipient</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>CREATED_DATE</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>FeedbackRequestState</lookupDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Subject</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>FeedbackType</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>DueDate</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Recipient</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>CREATED_DATE</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>FeedbackRequestState</lookupPhoneDialogsAdditionalFields>
-        <searchResultsAdditionalFields>Subject</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>FeedbackType</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>DueDate</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Recipient</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>CREATED_DATE</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>FeedbackRequestState</searchResultsAdditionalFields>
-    </searchLayouts>
-    <sharingModel>Private</sharingModel>
 </CustomObject>

@@ -129,14 +129,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>ReadWrite</externalSharingModel>
-    <fields>
-        <fullName>ParentGoalId</fullName>
-        <type>Lookup</type>
-    </fields>
-    <fields>
-        <fullName>SubgoalId</fullName>
-        <type>Lookup</type>
-    </fields>
     <searchLayouts>
         <lookupDialogsAdditionalFields>ParentGoal</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>ParentGoalProgress</lookupDialogsAdditionalFields>
@@ -158,4 +150,12 @@
         <searchResultsAdditionalFields>SubgoalOwner</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <fields>
+        <fullName>ParentGoalId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>SubgoalId</fullName>
+        <type>Lookup</type>
+    </fields>
 </CustomObject>

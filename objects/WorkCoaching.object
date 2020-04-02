@@ -115,6 +115,21 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
+    <searchLayouts>
+        <customTabListAdditionalFields>Coach</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Coached</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Inactive</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Coach</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Coached</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Inactive</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Coach</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Coached</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Inactive</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>Coach</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Coached</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Inactive</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
     <fields>
         <fullName>CoachId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -132,19 +147,4 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
-    <searchLayouts>
-        <customTabListAdditionalFields>Coach</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Coached</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Inactive</customTabListAdditionalFields>
-        <lookupDialogsAdditionalFields>Coach</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>Coached</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>Inactive</lookupDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Coach</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Coached</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Inactive</lookupPhoneDialogsAdditionalFields>
-        <searchResultsAdditionalFields>Coach</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Coached</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Inactive</searchResultsAdditionalFields>
-    </searchLayouts>
-    <sharingModel>Private</sharingModel>
 </CustomObject>
