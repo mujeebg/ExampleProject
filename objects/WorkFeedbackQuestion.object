@@ -115,29 +115,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
-    <searchLayouts>
-        <customTabListAdditionalFields>Number</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Text</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Choices</customTabListAdditionalFields>
-        <customTabListAdditionalFields>IsOptional</customTabListAdditionalFields>
-        <customTabListAdditionalFields>IsConfidentialAnswer</customTabListAdditionalFields>
-        <lookupDialogsAdditionalFields>Number</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>Text</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>Choices</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>IsOptional</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>IsConfidentialAnswer</lookupDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Number</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Text</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Choices</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>IsOptional</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>IsConfidentialAnswer</lookupPhoneDialogsAdditionalFields>
-        <searchResultsAdditionalFields>Number</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Text</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Choices</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>IsOptional</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>IsConfidentialAnswer</searchResultsAdditionalFields>
-    </searchLayouts>
-    <sharingModel>Private</sharingModel>
     <fields>
         <fullName>Choices</fullName>
         <trackHistory>false</trackHistory>
@@ -180,4 +157,27 @@
         <fullName>Type</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <searchLayouts>
+        <customTabListAdditionalFields>Number</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Text</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Choices</customTabListAdditionalFields>
+        <customTabListAdditionalFields>IsOptional</customTabListAdditionalFields>
+        <customTabListAdditionalFields>IsConfidentialAnswer</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Number</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Text</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Choices</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>IsOptional</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>IsConfidentialAnswer</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Number</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Text</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Choices</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>IsOptional</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>IsConfidentialAnswer</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>Number</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Text</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Choices</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>IsOptional</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>IsConfidentialAnswer</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
 </CustomObject>
