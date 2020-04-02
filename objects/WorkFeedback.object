@@ -101,15 +101,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
-    <searchLayouts>
-        <customTabListAdditionalFields>Request</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Question</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Feedback</customTabListAdditionalFields>
-        <searchResultsAdditionalFields>Request</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Question</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Feedback</searchResultsAdditionalFields>
-    </searchLayouts>
-    <sharingModel>Private</sharingModel>
     <fields>
         <fullName>Feedback</fullName>
         <trackHistory>false</trackHistory>
@@ -129,4 +120,13 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
+    <searchLayouts>
+        <customTabListAdditionalFields>Request</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Question</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Feedback</customTabListAdditionalFields>
+        <searchResultsAdditionalFields>Request</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Question</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Feedback</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
 </CustomObject>

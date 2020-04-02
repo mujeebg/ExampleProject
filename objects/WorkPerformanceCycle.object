@@ -171,25 +171,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
-    <searchLayouts>
-        <customTabListAdditionalFields>Owner</customTabListAdditionalFields>
-        <customTabListAdditionalFields>ActivityFrom</customTabListAdditionalFields>
-        <customTabListAdditionalFields>ActivityTo</customTabListAdditionalFields>
-        <customTabListAdditionalFields>State</customTabListAdditionalFields>
-        <lookupDialogsAdditionalFields>Owner</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>ActivityFrom</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>ActivityTo</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>State</lookupDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Owner</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>ActivityFrom</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>ActivityTo</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>State</lookupPhoneDialogsAdditionalFields>
-        <searchResultsAdditionalFields>Owner</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>ActivityFrom</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>ActivityTo</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>State</searchResultsAdditionalFields>
-    </searchLayouts>
-    <sharingModel>Private</sharingModel>
     <fields>
         <fullName>ActivityFrom</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -226,4 +207,23 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
+    <searchLayouts>
+        <customTabListAdditionalFields>Owner</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ActivityFrom</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ActivityTo</customTabListAdditionalFields>
+        <customTabListAdditionalFields>State</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Owner</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ActivityFrom</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ActivityTo</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>State</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Owner</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ActivityFrom</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ActivityTo</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>State</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>Owner</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActivityFrom</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActivityTo</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>State</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
 </CustomObject>
