@@ -129,6 +129,17 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
+    <searchLayouts>
+        <customTabListAdditionalFields>FeedbackType</customTabListAdditionalFields>
+        <customTabListAdditionalFields>PerformanceCycle</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>FeedbackType</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>PerformanceCycle</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>FeedbackType</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>PerformanceCycle</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>FeedbackType</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>PerformanceCycle</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
     <fields>
         <fullName>DueDate</fullName>
         <trackHistory>false</trackHistory>
@@ -151,15 +162,4 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
-    <searchLayouts>
-        <customTabListAdditionalFields>FeedbackType</customTabListAdditionalFields>
-        <customTabListAdditionalFields>PerformanceCycle</customTabListAdditionalFields>
-        <lookupDialogsAdditionalFields>FeedbackType</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>PerformanceCycle</lookupDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>FeedbackType</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>PerformanceCycle</lookupPhoneDialogsAdditionalFields>
-        <searchResultsAdditionalFields>FeedbackType</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>PerformanceCycle</searchResultsAdditionalFields>
-    </searchLayouts>
-    <sharingModel>Private</sharingModel>
 </CustomObject>

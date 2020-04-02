@@ -115,6 +115,7 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
+    <sharingModel>Private</sharingModel>
     <fields>
         <fullName>Name</fullName>
     </fields>
@@ -126,5 +127,4 @@
         <fullName>QuestionSetId</fullName>
         <type>Lookup</type>
     </fields>
-    <sharingModel>Private</sharingModel>
 </CustomObject>
