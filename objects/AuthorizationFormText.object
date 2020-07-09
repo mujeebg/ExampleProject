@@ -154,6 +154,11 @@
         <fullName>SummaryAuthFormText</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <listViews>
+        <fullName>All_AuthorizationFormText</fullName>
+        <filterScope>Everything</filterScope>
+        <label>Todo Texto de formulario de autorización</label>
+    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>AuthorizationForm</customTabListAdditionalFields>
         <customTabListAdditionalFields>SummaryAuthFormText</customTabListAdditionalFields>

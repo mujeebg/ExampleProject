@@ -154,6 +154,11 @@
         <fullName>RevisionNumber</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <listViews>
+        <fullName>All_AuthorizationForms</fullName>
+        <filterScope>Everything</filterScope>
+        <label>Todos los Formularios de autorización</label>
+    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>RevisionNumber</customTabListAdditionalFields>
         <customTabListAdditionalFields>EffectiveFromDate</customTabListAdditionalFields>
